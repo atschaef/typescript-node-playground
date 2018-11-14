@@ -1,0 +1,20 @@
+{
+  "files.exclude": {
+    "**/.idea": true,
+    "**/.nyc_output": true,
+    "**/.tscache": true,
+    "**/.vscode": true,
+    "**/coverage": true
+  },
+  "search.exclude": {
+    "**/.idea": true,
+    "**/.nyc_output": true,
+    "**/.tscache": true,
+    "**/.vscode": true,
+    "**/coverage": true,
+    "**/dist": true,
+    "**/node_modules": true
+  },
+  "editor.wordWrapColumn": 120,
+  "editor.tabSize": 2
+}
